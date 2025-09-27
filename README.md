@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#0078ff;">Muhammad Umair</span></h1>
 
 <p align="center">
-  🚀 Full Stack Web Developer | 💻 Internship at @bixisoft | 🎓 BSIT Student at Virtual University
+  🚀 Full Stack Web Developer | 💻 Working at @bixisoft | 🎓 BSIT Student at Virtual University
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ### 🧑‍💻 About Me
 - 🌱 Currently learning **LAMP Stack & Wordpress**
 - 💼 Experience in ** React, Php, WordPress, Elementor,**
-- 🔬 Internship at **@bixisoft** (Crop Classification with Satellite Imagery)
+- 🔬 Internship at **PITB** (Crop Classification with Satellite Imagery)
 - 📚 Passionate about **problem-solving** and **continuous learning**
 
 ---
