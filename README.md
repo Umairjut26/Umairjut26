@@ -1,4 +1,6 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#0078ff;">Muhammad Umair</span></h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0078FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Muhammad+Umair;Full+Stack+Web+Developer" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   🚀 Full Stack Web Developer | 💻 Working at @bixisoft | 🎓 BSIT Student at Virtual University
