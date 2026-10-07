@@ -1,6 +1,6 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&height=75&lines=Hi%2C+I%27m+Muhammad+Umair+Jutt;AI+Engineer+%26+Full+Stack+Developer;AI+Agents+%7C+RAG+%7C+Automation;Building+AI-Powered+Web+Applications"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1500&color=FF5733&center=true&vCenter=true&width=850&height=75&lines=Hi+%F0%9F%91%8B%2C+I%27m+Muhammad+Umair+Jutt;AI+Engineer+%26+Full+Stack+Developer;I+Build+AI+Agents+%26+RAG+Solutions;Let%27s+Build+Something+Great!"
     alt="Hi, I'm Muhammad Umair Jutt — AI Engineer and Full Stack Developer"
   />
 </h1>
