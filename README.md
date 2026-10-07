@@ -1,19 +1,36 @@
-<h1 align="center">Hi, I'm Muhammad Umair Jutt 👋</h1>
-
-<h3 align="center">AI Engineer & Full Stack Developer</h3>
+<h1 align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&height=75&lines=Hi%2C+I%27m+Muhammad+Umair+Jutt;AI+Engineer+%26+Full+Stack+Developer;AI+Agents+%7C+RAG+%7C+Automation;Building+AI-Powered+Web+Applications"
+    alt="Hi, I'm Muhammad Umair Jutt — AI Engineer and Full Stack Developer"
+  />
+</h1>
 
 <p align="center">
-  AI Agents • RAG • Workflow Automation • SaaS • Web Applications
+  <strong>Turning business ideas into AI tools and web applications.</strong>
 </p>
 
 <p align="center">
-  <a href="https://umairdev.online">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/muhammad-umair-629564425/">LinkedIn</a> •
-  <a href="https://github.com/Umairjut26">GitHub</a>
+  AI Agents &nbsp;•&nbsp; RAG &nbsp;•&nbsp; n8n Automation &nbsp;•&nbsp; Full Stack Development
+</p>
+
+<p align="center">
+  <a href="https://umairdev.online">
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-umair-629564425/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Umairjut26">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Available_for-Freelance_Projects-22C55E?style=flat-square&labelColor=0F172A" alt="Available for freelance projects" />
+  <img src="https://img.shields.io/badge/Location-Pakistan-38BDF8?style=flat-square&labelColor=0F172A" alt="Based in Pakistan" />
 </p>
 
 ---
-
 ## About Me
 
 I'm an AI Engineer and Full Stack Developer based in **Multan, Pakistan**.
